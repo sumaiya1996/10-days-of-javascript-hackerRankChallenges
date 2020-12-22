@@ -15,7 +15,7 @@ nums = nums.filter(function(item, pos) {
     return nums.indexOf(item) == pos;
 })
    
-   //check thw whole array
+   //check whole array
    
     nums.forEach(function(e, i, array) {
     // 'i' is the index
