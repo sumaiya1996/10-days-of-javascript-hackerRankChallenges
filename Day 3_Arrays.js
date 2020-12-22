@@ -20,7 +20,7 @@ nums = nums.filter(function(item, pos) {
     nums.forEach(function(e, i, array) {
     // 'i' is the index
     // 'e' is the element
-   // console.log(i + 'remov ' + e);
+   // console.log(i + ' ' + e);
 });
  //console.log(nums[1]);
  
